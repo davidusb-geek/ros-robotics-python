@@ -2,7 +2,7 @@
 
 Some example files using python for publishing and subscribing to topics in ROS for some basic robotics. 
 
-These files are used on a real robot combining ROS on a RPi3 and a client computer, a kinect sensor, an mpu6050 sensor for orientation, an Arduino Nano connected trough i2c to the RPi3 controlling two stepper motors and driven by two DRV8825 drivers, a smartphone wyth the HyperIMU app installed.
+These files are used on a real robot combining ROS on a RPi3 and a client computer, a kinect sensor, an mpu6050 sensor for orientation, an Arduino Nano connected trough i2c to the RPi3 controlling two stepper motors and driven by two DRV8825 drivers, a smartphone with the HyperIMU app installed.
 
 These examples includes:
 
